@@ -25,8 +25,6 @@ function getSumAllArray() {
 let domain = getSumAllArray()
 
 window.onload = function () {
-  //write your code here
-
   document.querySelector("#exercise").innerHTML= domain
 
 };
